@@ -1,0 +1,10 @@
+{
+  "name": "sistema-autenticacion-sena",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Evidencia GA7-220501096-AA5-EV01: registro y autenticación de usuarios",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"},
+  "dependencies": {"express": "^4.21.2"}
+}
